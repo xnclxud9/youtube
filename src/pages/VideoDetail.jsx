@@ -18,7 +18,7 @@ function VideoDetail(props) {
           type='text/html'
           width='100%'
           height='600px'
-          src={`http://www.youtube.com/embed/${video.id}`}
+          src={`https://www.youtube.com/embed/${video.id}`}
           frameborder='0'
           title={title}
         />
